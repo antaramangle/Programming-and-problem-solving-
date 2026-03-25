@@ -1,4 +1,4 @@
-(10.1)
+(11.1)
 Write a Python program that reads an integer, calculates the sum of its digits, and prints the result.
 Input Format:
 The program reads an integer input with the prompt "Enter a number: "
